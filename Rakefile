@@ -1,3 +1,3 @@
 task 'application:setup' do
-  puts 'success!'
+  raise 'Error, oh noes!'
 end
