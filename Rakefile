@@ -1,3 +1,3 @@
 task 'application:setup' do
-  raise 'Error, oh noes!'
+  raise 'raising on application:setup on purpose'
 end
